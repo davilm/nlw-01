@@ -11,9 +11,9 @@
  <img src="https://img.shields.io/static/v1?label=PRs&message=welcome&color=7159c1&labelColor=000000" alt="PRs welcome!" />
 
 
-<h1 align="center">
+<p align="center">
     <img alt="capa" title="Ecoleta" src=".github/capa.svg" width="100%" />
-</h1>
+</p>
 
 
 # Project
